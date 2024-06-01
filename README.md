@@ -18,8 +18,10 @@ Entusiasta de arte e tecnologia, prezo pela estetica visual e gosto de trazer so
 </div>
 
 ## Projetos em destaque 🗂️ 
+<div>
 <a href="https://github.com/rafael-bs009">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=rafael-bs009&repo=site_juliahernandes&theme=tokyonight"/>
+<img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=rafael-bs009&repo=projeto_agenda_de_contatos&theme=tokyonight"/>
 </div>
 
 <!--
