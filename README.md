@@ -18,11 +18,17 @@ Entusiasta de arte e tecnologia, prezo pela estetica visual e gosto de trazer so
 </div>
 
 ## Projetos em destaque 🗂️ 
-<div>
-<a href="https://github.com/rafael-bs009">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rafael-bs009&repo=site_juliahernandes&theme=tokyonight"/>
-<img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=rafael-bs009&repo=projeto_agenda_de_contatos&theme=tokyonight"/>
-</div>
+
+| Site de portfolio | Agenda de contatos |
+|-----------|-----------|
+| <a href="https://github.com/rafael-bs009/site_juliahernandes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rafael-bs009&repo=site_juliahernandes&theme=tokyonight" alt="site_juliahernandes" style="width: 500px;"/></a> | <a href="https://github.com/rafael-bs009/projeto_agenda_de_contatos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rafael-bs009&repo=projeto_agenda_de_contatos&theme=tokyonight" alt="projeto_agenda_de_contatos" style="width: 500px;"/></a> |
+| | |
+| To-do list |
+| <a href="https://github.com/rafael-bs009/to-do-list-jquery"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rafael-bs009&repo=to-do-list-jquery&theme=tokyonight" alt="to-do-list-jquery" style="width: 500px;"/></a> |
+
+
+
+
 
 <!--
 **Rafael-Bs009/Rafael-Bs009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
