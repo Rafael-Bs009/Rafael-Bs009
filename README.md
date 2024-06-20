@@ -1,6 +1,5 @@
 # Olá, meu nome é Rafael! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
-Tenho 30 anos, sou de São Paulo capital. Entrando de cabeça na programação, atualmente estou cursando "Desenvolvedor Full Stack Python" na escola EBAC.
-Entusiasta de arte e tecnologia, prezo pela estetica visual e gosto de trazer soluções pensando no usuário.
+Tenho 30 anos e sou de São Paulo capital. Estou dedicado ao curso "Desenvolvedor Full Stack Python" na EBAC, explorando minha paixão por arte e tecnologia. Valorizo a estética visual e me empenho em criar soluções práticas e intuitivas para o usuário.
 
 
 ## 🔧 Tecnologias e ferramentas 
