@@ -18,11 +18,12 @@ Tenho 30 anos e sou de São Paulo capital. Estou dedicado ao curso "Desenvolvedo
 
 ## Projetos em destaque 🗂️ 
 
-| Site de portfolio | Agenda de contatos |
+|  |  |
 |-----------|-----------|
 | <a href="https://github.com/rafael-bs009/site_juliahernandes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rafael-bs009&repo=site_juliahernandes&theme=tokyonight" alt="site_juliahernandes" style="width: 500px;"/></a> | <a href="https://github.com/rafael-bs009/projeto_agenda_de_contatos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rafael-bs009&repo=projeto_agenda_de_contatos&theme=tokyonight" alt="projeto_agenda_de_contatos" style="width: 500px;"/></a> |
-| | |
-| To-do list |
+|  |  |
+|  |  |
+|  |  |
 | <a href="https://github.com/rafael-bs009/to-do-list-jquery"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rafael-bs009&repo=to-do-list-jquery&theme=tokyonight" alt="to-do-list-jquery" style="width: 500px;"/></a> |
 
 
