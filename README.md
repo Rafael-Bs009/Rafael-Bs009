@@ -12,19 +12,19 @@ Tenho 30 anos e sou de São Paulo capital. Estou dedicado ao curso "Desenvolvedo
 
 <div>
 <a href="https://github.com/rafael-bs009">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=rafael-bs009&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-bs009&langs_count=7&theme=tokyonight"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=rafael-bs009&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-bs009&langs_count=7&theme=gotham"/>
 </div>
 
 ## Projetos em destaque 🗂️ 
 
 |  |  |
 |-----------|-----------|
-| <a href="https://github.com/rafael-bs009/site_juliahernandes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rafael-bs009&repo=site_juliahernandes&theme=tokyonight" alt="site_juliahernandes" style="width: 500px;"/></a> | <a href="https://github.com/rafael-bs009/projeto_agenda_de_contatos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rafael-bs009&repo=projeto_agenda_de_contatos&theme=tokyonight" alt="projeto_agenda_de_contatos" style="width: 500px;"/></a> |
+| <a href="https://github.com/rafael-bs009/site_juliahernandes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rafael-bs009&repo=site_juliahernandes&theme=gotham" alt="site_juliahernandes" style="width: 500px;"/></a> | <a href="https://github.com/rafael-bs009/projeto_agenda_de_contatos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rafael-bs009&repo=projeto_agenda_de_contatos&theme=gotham" alt="projeto_agenda_de_contatos" style="width: 500px;"/></a> |
 |  |  |
 |  |  |
 |  |  |
-| <a href="https://github.com/rafael-bs009/to-do-list-jquery"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rafael-bs009&repo=to-do-list-jquery&theme=tokyonight" alt="to-do-list-jquery" style="width: 500px;"/></a> |
+| <a href="https://github.com/rafael-bs009/to-do-list-jquery"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rafael-bs009&repo=to-do-list-jquery&theme=gotham" alt="to-do-list-jquery" style="width: 500px;"/></a> |
 
 
 
