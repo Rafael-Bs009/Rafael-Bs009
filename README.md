@@ -3,10 +3,11 @@ Tenho 30 anos e sou de São Paulo capital. Estou dedicado ao curso "Desenvolvedo
 
 
 ## 🔧 Tecnologias e ferramentas 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" width="50" height="50"/>
 
 ## 📚 Estudando... 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width="50" height="50"/>
+          
 
 ## Estatísticas do GitHub  <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width=35px />
 
@@ -24,7 +25,7 @@ Tenho 30 anos e sou de São Paulo capital. Estou dedicado ao curso "Desenvolvedo
 |  |  |
 |  |  |
 |  |  |
-| <a href="https://github.com/rafael-bs009/to-do-list-jquery"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rafael-bs009&repo=to-do-list-jquery&theme=gotham" alt="to-do-list-jquery" style="width: 500px;"/></a> |
+| <a href="https://github.com/rafael-bs009/to-do-list-jquery"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rafael-bs009&repo=to-do-list-jquery&theme=gotham" alt="to-do-list-jquery" style="width: 500px;"/></a> | <a href="https://github.com/rafael-bs009/Gentlemen-Barbershop-Website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rafael-bs009&repo=Gentlemen-Barbershop-Website&theme=gotham" alt="to-do-list-jquery" style="width: 500px;"/></a>
 
 
 
