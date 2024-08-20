@@ -21,11 +21,11 @@ Tenho 30 anos e sou de São Paulo capital. Estou dedicado ao curso "Desenvolvedo
 
 |  |  |
 |-----------|-----------|
-| <a href="https://github.com/rafael-bs009/site_juliahernandes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rafael-bs009&repo=site_juliahernandes&theme=gotham" alt="site_juliahernandes" style="width: 500px;"/></a> | <a href="https://github.com/rafael-bs009/projeto_agenda_de_contatos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rafael-bs009&repo=projeto_agenda_de_contatos&theme=gotham" alt="projeto_agenda_de_contatos" style="width: 500px;"/></a> |
+| <a href="https://github.com/rafael-bs009/site_juliahernandes"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rafael-bs009&repo=site_juliahernandes&theme=gotham" alt="site_juliahernandes" style="width: 500px;"/></a> | <a href="https://github.com/Rafael-Bs009/flipside-website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rafael-bs009&repo=flipside-website&theme=gotham" alt="projeto_agenda_de_contatos" style="width: 500px;"/></a> |
 |  |  |
 |  |  |
 |  |  |
-| <a href="https://github.com/rafael-bs009/to-do-list-jquery"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rafael-bs009&repo=to-do-list-jquery&theme=gotham" alt="to-do-list-jquery" style="width: 500px;"/></a> | <a href="https://github.com/rafael-bs009/Gentlemen-Barbershop-Website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rafael-bs009&repo=Gentlemen-Barbershop-Website&theme=gotham" alt="to-do-list-jquery" style="width: 500px;"/></a>
+| <a href="https://github.com/Rafael-Bs009/dropmic-website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rafael-bs009&repo=dropmic-website&theme=gotham" alt="to-do-list-jquery" style="width: 500px;"/></a> | <a href="https://github.com/rafael-bs009/Gentlemen-Barbershop-Website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rafael-bs009&repo=Gentlemen-Barbershop-Website&theme=gotham" alt="to-do-list-jquery" style="width: 500px;"/></a>
 
 
 
