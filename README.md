@@ -17,13 +17,14 @@ Estou em busca da minha primeira oportunidade profissional na área de desenvolv
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="50" height="40" style="max-width: 100%;"/>&nbsp; 
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gulp/gulp-plain.svg" width="45" height="35" style="max-width: 100%;"/>&nbsp; 
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/less/less-plain-wordmark.svg" width="50" height="40" style="max-width: 100%;"/>&nbsp;
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="40" style="max-width: 100%;"/>&nbsp;
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grunt/grunt-original.svg" width="45" height="35" style="max-width: 100%;"/>
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg"  height="35" style="max-width: 100%;" />
           
 
 ## 📚 Estudando... 
-<div align="center">
-          <img src="https://i.giphy.com/bGgsc5mWoryfgKBx1u.webp" width="300" height="300">
+<div >
+          <img align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45" height="35" style="max-width: 100%;" />
+          <img align="center"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" height="35" style="max-width: 100%;" />
 </div>
           
 
